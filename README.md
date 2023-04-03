@@ -7,8 +7,13 @@ The portfolio.csv file contains data about offers sent to customers, including 1
 
 # Project Structure
 customer_segmentation.py: The main Python script that performs customer segmentation using K-Means clustering algorithm and CatBoostClassifier and Random Forest algorithms for classification.
+
 portfolio.csv: The input CSV file containing data about offers sent to customers.
+
 profile.csv: The input CSV file containing demographic data of customers.
+
 transcript.csv: The input CSV file containing customer response to offers and transactions made.
+
 customer_segments.csv: The output CSV file containing customer segments.
+
 README.md: This file.
